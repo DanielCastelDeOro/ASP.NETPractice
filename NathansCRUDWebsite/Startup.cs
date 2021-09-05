@@ -11,7 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace NathansCRUDWebsite
 {
-    public class Startup
+    public class Startup 
     {
         public Startup(IConfiguration configuration)
         {
